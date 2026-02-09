@@ -4,6 +4,15 @@ Have you ever found youself in a position where you do not know what possible wo
 
 This userscipt will give you a suggested word that contains the green and yellow letters. 
 
+### Example run
+
+<p align="center">
+  <img src="imgs/img1.png" width="200"/>
+  <img src="imgs/img2.png" width="200"/>
+  <img src="imgs/img3.png" width="200"/>
+</p>
+
+
 Important: This is NOT an optimized engine rather is meant to randomly pick a word from a list of all possible words that contain the green and yellow letters. 
 
 Warning: this ruins the fun of wordle.
