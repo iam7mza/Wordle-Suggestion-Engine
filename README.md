@@ -17,11 +17,13 @@ Important: This is NOT an optimized engine rather is meant to randomly pick a wo
 
 Warning: this ruins the fun of wordle.
 
-## How to Use
+## Installation
 Using `TamperMonkey` extension in your browser:
 - create new script
 - copy the code in `wordleSE.js` and paste it in your new script
 - press `ctrl + s`
+
+Or install directly from [Greasy Fork](https://greasyfork.org/en/scripts/565153-wordle-suggestion-engine).
 
 The script will automatically run. 
 
